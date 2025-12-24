@@ -41,7 +41,7 @@ I'm a **Developer** and **Cybersecurity Enthusiast** with a passion for building
 
 - 📧 Email: [andre@ribassu.com](mailto:andre@ribassu.com)
 - 🔗 Telegram: [t.me/RibasSu](https://t.me/RibasSu)
-- 🌐 Portfolio: [ribassu.com](https://ribassu.com)
+- 🌐 Portfolio: [ribassu.dev](https://ribassu.dev/)
 
 ---
 ⭐️ **From [RibasSu](https://github.com/RibasSu)**
