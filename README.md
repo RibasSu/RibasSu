@@ -14,7 +14,7 @@ I'm a **Developer** and **Cybersecurity Enthusiast** with a passion for building
 - 🔭 I’m currently working on improving my skills in **Backend Development** and **Cybersecurity**.
 - 🌱 I’m learning more about **Cloud Computing** and **Containerization**.
 - 💬 Ask me about **Node.js**, **JavaScript**, **Cybersecurity**, and **Databases**.
-- 📫 How to reach me: **[andre@ribas.su](mailto:andre@ribas.su)**
+- 📫 How to reach me: **[andre@ribassu.com](mailto:andre@ribassu.com)**
 
 ## Languages and Tools
 
@@ -39,9 +39,9 @@ I'm a **Developer** and **Cybersecurity Enthusiast** with a passion for building
 
 ## Let's Connect!
 
-- 📧 Email: [andre@ribas.su](mailto:andre@ribas.su)
+- 📧 Email: [andre@ribassu.com](mailto:andre@ribassu.com)
 - 🔗 Telegram: [t.me/RibasSu](https://t.me/RibasSu)
-- 🌐 Portfolio: [andre.ribas.su](https://andre.ribas.su)
+- 🌐 Portfolio: [ribassu.com](https://ribassu.com)
 
 ---
 ⭐️ **From [RibasSu](https://github.com/RibasSu)**
