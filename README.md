@@ -84,7 +84,7 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 
 ## Open Source Contributions
 
-- Recent contribution to **EmDash CMS** (added pt-BR locale support).
+<!--- Recent contribution to **EmDash CMS** (added pt-BR locale support). -->
 - Participation in projects related to security, privacy, and networking tools.
 - Member of the **GitHub Developer Program**.
 
