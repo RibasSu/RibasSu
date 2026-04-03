@@ -76,7 +76,8 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.ribassu.dev/?username=RibasSu&theme=radical&no-frame=true&row=1&column=7"/>
+  <img height="170em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=Cipherlink&theme=radical&hide_border=true" alt="Cipherlink"/>
+  <img height="170em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=worker-mailer&theme=radical&hide_border=true" alt="Worker Mailer"/>
 </div>
 
 ---
