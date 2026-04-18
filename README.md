@@ -76,12 +76,12 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 </div>
 
 <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=RibasSu&theme=radical&hide_border=true"/>
+  <img height="250em" src="https://streak-stats.demolab.com?user=RibasSu&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=Cipherlink&theme=radical&hide_border=true" alt="Cipherlink"/>
-  <img height="100em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=worker-mailer&theme=radical&hide_border=true" alt="Worker Mailer"/>
+  <img height="120em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=Cipherlink&theme=radical&hide_border=true" alt="Cipherlink"/>
+  <img height="120em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=worker-mailer&theme=radical&hide_border=true" alt="Worker Mailer"/>
 </div>
 
 ---
